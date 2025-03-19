@@ -11,7 +11,7 @@ node_modules
 vite.config.json
 eslint.config.js
 dist
-.env
+.frontend/.env
 dist-ssr
 *.local
 
